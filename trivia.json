@@ -1,0 +1,29 @@
+{
+    "trivia":[
+        {
+            "question":"Which one of these games was made first?",
+            "a1":"Legend of Zelda: A Link to the Past",
+            "a2":"Secret of Mana",
+            "a3":"Secret of Evermore",
+            "a4":"Chrono Trigger",
+            "correctA":"a1"
+        },
+        {"question":"Which popular game inspired a pop song that charted in the Billboard Top 10 in 1982?",
+            "a1":"Asteroids",
+            "a2":"Frogger",
+            "a3":"Space Invaders",
+            "a4":"Pac-Man",
+            "correctA":"a4"
+                
+            },
+            {"question":"Three arcade games are stored at the Smithsonian Institution: Pong, Pac-Man and ?",
+            "choice1":"Donkey Kong",
+            "choice2":"Tempest",
+            "choice3":"Dragon's Lair",
+            "choice4":"Q-Bert",
+            "correctA":"a3"
+                
+        }
+
+    ]
+}
